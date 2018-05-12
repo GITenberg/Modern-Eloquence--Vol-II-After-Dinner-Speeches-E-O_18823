@@ -1,0 +1,28 @@
+_repo: Modern-Eloquence--Vol-II-After-Dinner-Speeches-E-O_18823
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Reed, Thomas B. (Thomas Brackett)
+    alias: Reed, Thomas Brackett
+    birthdate: 1839
+    deathdate: 1902
+    gutenberg_agent_id: '8274'
+    url: http://www.gutenberg.org/2009/agents/8274
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Brackett_Reed
+description: ''
+gutenberg_issued: '2006-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18823'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Speeches, addresses, etc.'
+title: 'Modern Eloquence: Vol II, After-Dinner Speeches E-O'
+url: http://www.gutenberg.org/ebooks/18823
